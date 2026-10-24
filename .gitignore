@@ -1,0 +1,7 @@
+creditcard.csv
+venv/
+.venv/
+__pycache__/
+*.pyc
+weather.egg-info/
+.env
