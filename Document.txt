@@ -1,0 +1,11 @@
+1. Project Overview
+
+The Credit Card Fraud Detection project uses machine learning to classify credit card transactions as legitimate or fraudulent. The project uses a Random Forest Classifier implemented with Python and Scikit-learn to learn patterns from historical transaction data and predict the class of new transactions.
+
+The trained model is saved as model.pkl using Python's Pickle module so that it can be loaded and reused without retraining.
+
+2. Problem Statement
+
+Credit card fraud causes financial losses for customers and financial institutions. Identifying fraudulent transactions manually is time-consuming and difficult when transaction volumes are high.
+
+This project applies supervised machine learning to transaction data to identify potentially fraudulent transactions and support automated fraud detection
